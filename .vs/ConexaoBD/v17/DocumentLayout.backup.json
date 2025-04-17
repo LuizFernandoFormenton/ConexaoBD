@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\luiz.fffilho1\\Desktop\\.NET\\ConexaoBD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECBA7292-014B-96E8-8F61-AC7B142A5957}|ConexaoBD.csproj|c:\\users\\luiz.fffilho1\\desktop\\.net\\conexaobd\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECBA7292-014B-96E8-8F61-AC7B142A5957}|ConexaoBD.csproj|solutionrelative:conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ECBA7292-014B-96E8-8F61-AC7B142A5957}|ConexaoBD.csproj|c:\\users\\luiz.fffilho1\\desktop\\.net\\conexaobd\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECBA7292-014B-96E8-8F61-AC7B142A5957}|ConexaoBD.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBA7292-014B-96E8-8F61-AC7B142A5957}|ConexaoBD.csproj|c:\\users\\luiz.fffilho1\\desktop\\.net\\conexaobd\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBA7292-014B-96E8-8F61-AC7B142A5957}|ConexaoBD.csproj|solutionrelative:conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECBA7292-014B-96E8-8F61-AC7B142A5957}|ConexaoBD.csproj|c:\\users\\luiz.fffilho1\\desktop\\.net\\conexaobd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,33 +32,33 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\luiz.fffilho1\\Desktop\\.NET\\ConexaoBD\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T23:17:43.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\luiz.fffilho1\\Desktop\\.NET\\ConexaoBD\\Produto.cs",
               "RelativeDocumentMoniker": "Produto.cs",
               "ToolTip": "C:\\Users\\luiz.fffilho1\\Desktop\\.NET\\ConexaoBD\\Produto.cs",
               "RelativeToolTip": "Produto.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T23:10:48.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\luiz.fffilho1\\Desktop\\.NET\\ConexaoBD\\Conexao.cs",
               "RelativeDocumentMoniker": "Conexao.cs",
               "ToolTip": "C:\\Users\\luiz.fffilho1\\Desktop\\.NET\\ConexaoBD\\Conexao.cs",
               "RelativeToolTip": "Conexao.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAswD8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA6wBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T23:10:47.686Z",
               "EditorCaption": ""

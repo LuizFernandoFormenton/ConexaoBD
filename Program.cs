@@ -8,6 +8,11 @@ namespace ConexaoBD
         static void Main(string[] args)
         {
 
+            Produto p2 = new Produto();
+            p2.nome = "Mochila Azul";
+            p2.preco = 109.99f;
+            p2.Insere();
+
             Produto produto = new Produto();
             List<Produto> lista = produto.BuscaTodos();
 
@@ -19,4 +24,5 @@ namespace ConexaoBD
 
         }
     }
+
 }
