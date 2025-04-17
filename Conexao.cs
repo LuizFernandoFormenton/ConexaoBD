@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Xml.Linq;
 using MySql.Data.MySqlClient;
 
@@ -9,6 +10,22 @@ namespace ConexaoBD
     {
 
         string dadosConexao = "server=localhost;user=root;database=teste_ti42;port=3306;password=";
+
+        public DataTable ExecutaSelect( string query )
+        {
+            //Cria e abre conexão com o banco
+            MySqlConnection conexao = new MySqlConnection(dadosConexao);
+            conexao.Open();
+
+            MySqlCommand comando = new MySqlCommand(query, conexao);
+            MySqlDataAdapter dados = new MySqlDataAdapter (comando);
+            DataTable dt = new DataTable();
+            dados.Fill (dt);
+
+            conexao.Close();
+
+            return dt;
+        }
 
         public List<Produto> BuscaProdutos()
         {
